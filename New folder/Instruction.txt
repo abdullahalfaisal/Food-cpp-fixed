@@ -1,0 +1,5 @@
+1)  First type your Name to make an order.
+2)  Then type your food you want to order.
+3)  Then type the number for your desired flavour of your food.
+4)  Type the quantity 
+5)  If you want to order anything more then type 'Y' otherwise 'N' 
